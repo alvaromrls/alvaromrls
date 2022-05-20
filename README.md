@@ -1,3 +1,4 @@
+IN PROGRESS!!
 # WHO I AM ?
 My name is Álvaro Morales. I was born in Alcalá de Guadaíra (Seville, Spain), and since I was a child, I showed a talent for logic and mathematics.
 
@@ -23,10 +24,13 @@ This is my next goal!
 
 # WHICH IS MY WORK EXPERIENCE?
 ## UNIVERSITY OF SEVILLE
+DESCRIBIR LOS SIGUIENTES PROYECTOS
 ### HUMS
 ### DRAD
 ### IOT
 
 # HOW DO I WORK ?
+COMENTAR MIS HABILIDADES BLANDAS / TRANSVERSALES
 
 # WHAT ELSE HAVE I DONE ?
+VOLUNTARIADO
