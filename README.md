@@ -52,6 +52,20 @@ I have done several courses from LinkedIn Learning, Coursera and Kaggle as well 
 ## UNIVERSITY OF SEVILLE
 
 ### HUMS
+A HUMS is a Health and Usage Monitoring Sistem, a software which takes care of a Tank (like Iron Man's Jarvis). It follows GVA (UK) or NGVA (NATO) standards in order to create plug and play systems. During my stay in GIE, this project took most of my time and my headaches. We developed a HUMS system for GDELS-Santa Barbara which was included in a tank for the Czech Republic's army;
+
+[HUMS-Normative](https://www.omgwiki.org/ddsf/doku.php?id=ddsf:public:guidebook:03_user:07_gva)
+[HUMS-Gdels](https://www.infodefensa.com/texto-diario/mostrar/3166079/gdels-sbs-presenta-herramienta-predictiva-mantenimiento-vehiculos-basado-condicion)
+
+I developed the following tasks:
+- Requirements based software design.
+- Learn (by my self) about DDS systems (from RTI) and how to implement it on C++ and Java.
+- Design and develop a database model and API rest service with Django for saving all the data from different vehicle's subsystems.
+- Prepare slides and demos for our clients (even in English).
+- Integration with our client's subsystems, detecting all possible mistakes and solving them in case they exist.
+- Design other subsystems for testing and demos, like a DDS-CAN BUS tunnel.
+- Teaching my coworkers about the technologies and protocols.
+- Centos scripts to automate main software and tests compilation.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
