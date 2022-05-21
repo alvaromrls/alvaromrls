@@ -59,7 +59,7 @@ Techs I have learn by myself (courses from LinkedIn Learning, Coursera, Kaggle .
 # WHICH IS MY WORK EXPERIENCE?
 ## UNIVERSITY OF SEVILLE
 
-During two years (Jul 2019 - Jun 2021) I have been working as a Software / Electronics Engineer at University of Seville's electronic department (GIE). The Electronic Engineering Group has received the mention of Group of Excellence, with the highest score, in the two calls for proposals to date (2003-2012). This research group, based in the Department of Electronic Engineering of the School of Engineering of Seville, brings together more than 30
+During two years (Jul 2019 - Jun 2021) I have been working as a Software / Electronics Engineer at Department of Electronics, University of Seville (GIE). The Electronic Engineering Group has received the mention of Group of Excellence, with the highest score, in the two calls for proposals to date (2003-2012). This research group, based in the Department of Electronic Engineering of the School of Engineering of Seville, brings together more than 30
 researchers from the Electronic Technology Area, 16 of whom hold PhDs, around various lines of research.
 
 ### HUMS
