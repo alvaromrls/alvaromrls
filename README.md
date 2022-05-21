@@ -80,7 +80,7 @@ I developed the following tasks:
 - Learn basic Rhapsody from IBM in order to work with UML models.
 - Verify that our system follows all standards and is “GVA compliant”.
 - Design a configurable Excel that allows to configure each param of the system just using Excel.
-- Design different subsystems inside HUMS as Alarms or Thresholds.
+- Develop different subsystems inside HUMS as Alarms or Thresholds.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -118,17 +118,20 @@ Scope of work/Tasks:
 - Create a repository-based architecture in IAR for reusing all drivers in diferent
 projects and not have to copy-paste the code one by one.
 - Support in some FreeRTos architectures.
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-
-# HOW DO I WORK ?
-COMENTAR MIS HABILIDADES BLANDAS / TRANSVERSALES
+<!-- # HOW DO I WORK ?
+COMENTAR MIS HABILIDADES BLANDAS / TRANSVERSALES -->
 
 # WHAT ELSE HAVE I DONE ?
+A bit more about my carreer in case you are still reading:
 ## VOLUNTARY WORK
-
+Frome June to December 2022 I lived in Bucharest (Romania) where I worked as a volunteer. There I help people (in particular kids) who were at risk of exclusion or with disabilities. I opened my mind a lot with the intercultural environment I was in and the travels around other close countries I could realise (Bulgary, Serbia, Turkey...). 
 ## PROJECTS
+I'm not very used to develop large projects by myself and even less to publish them but ...
 ### LANGTICKERS
-https://github.com/alvaromrls/langProject
+Personal project with the aim of putting into practice the knowledge I am acquiring about kubernetes (and web development).
+More info [here](https://github.com/alvaromrls/langProject) (only Spanish)
 
 ![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
