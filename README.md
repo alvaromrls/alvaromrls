@@ -1,4 +1,3 @@
-IN PROGRESS!!
 # WHO I AM ?
 My name is Álvaro Morales. I was born in Alcalá de Guadaíra (Seville, Spain), and since I was a child, I showed a talent for logic and mathematics. I am a Chess Hooligan who also play videogames sometimes. As you can deduce, I speak English and Spanish. Futhermore, I'm learning French.
 
@@ -120,8 +119,8 @@ projects and not have to copy-paste the code one by one.
 - Support in some FreeRTos architectures.
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-<!-- # HOW DO I WORK ?
-COMENTAR MIS HABILIDADES BLANDAS / TRANSVERSALES -->
+# HOW DO I WORK ?
+I would describe myself as a 4x4 that sweeps through projects, well maybe that's too much. But when I am in *flow* state I can really finish my tasks extremely fast and in a really creative way. One of my greatest strengths, or worst weaknesses, is that I can be overly critical in my thinking, usually it helps but it can be a problem sometimes. A good working atmosphere is very important to me, at the beginning I tend to be reserved, but as soon as I gain confidence ... I can be 24/7 telling jokes as a good Andalusian.
 
 # WHAT ELSE HAVE I DONE ?
 A bit more about my carreer in case you are still reading:
