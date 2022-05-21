@@ -37,7 +37,6 @@ I have done several courses from LinkedIn Learning, Coursera and Kaggle as well 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 - Machine Learning & Artificial Intelligence
@@ -59,25 +58,28 @@ I have done several courses from LinkedIn Learning, Coursera and Kaggle as well 
 # WHICH IS MY WORK EXPERIENCE?
 ## UNIVERSITY OF SEVILLE
 
-During two years (Jul 2019 - Jun 2021) I have been working as a Software / Electronics Engineer at University of Seville's electronic department (GIE).
+During two years (Jul 2019 - Jun 2021) I have been working as a Software / Electronics Engineer at University of Seville's electronic department (GIE). The Electronic Engineering Group has received the mention of Group of Excellence, with the highest score, in the two calls for proposals to date (2003-2012). This research group, based in the Department of Electronic Engineering of the School of Engineering of Seville, brings together more than 30
+researchers from the Electronic Technology Area, 16 of whom hold PhDs, around various lines of research.
 
 ### HUMS
-A HUMS is a Health and Usage Monitoring Sistem, a software which takes care of a Tank (like Iron Man's Jarvis). It follows GVA (UK) or NGVA (NATO) standards in order to create plug and play systems. During my stay in GIE, this project took most of my time and my headaches. We developed a HUMS system for GDELS-Santa Barbara which was included in a tank for the Czech Republic's army.
+A [HUMS](https://www.omgwiki.org/ddsf/doku.php?id=ddsf:public:guidebook:03_user:07_gva) is a Health and Usage Monitoring Sistem, a software which takes care of a Tank (like Iron Man's Jarvis). It follows GVA (UK) or NGVA (NATO) standards in order to create plug and play systems. During my stay in GIE, this project took most of my time and my headaches. We developed a HUMS system for GDELS-Santa Barbara which was included in a tank for the Czech Republic's army.
 
-[HUMS-Normative](https://www.omgwiki.org/ddsf/doku.php?id=ddsf:public:guidebook:03_user:07_gva)
-
-[HUMS-Gdels](https://www.infodefensa.com/texto-diario/mostrar/3166079/gdels-sbs-presenta-herramienta-predictiva-mantenimiento-vehiculos-basado-condicion)
+More info about the project [here](https://www.infodefensa.com/texto-diario/mostrar/3166079/gdels-sbs-presenta-herramienta-predictiva-mantenimiento-vehiculos-basado-condicion) (spanish).
 
 I developed the following tasks:
 - Requirements based software design.
 - Learn (by my self) about DDS systems (from RTI) and how to implement it on C++ and Java.
 - Design and develop a database model and API rest service with Django for saving all the data from different vehicle's subsystems.
-- Prepare slides and demos for our clients (even in English).
+- Prepare slides and demos for our customers (even in English).
 - Integration with our client's subsystems, detecting all possible mistakes and solving them in case they exist.
 - Design other subsystems for testing and demos, like a DDS-CAN BUS tunnel.
 - Teaching my coworkers about the technologies and protocols.
 - Centos scripts to automate main software and tests compilation.
 - Helping in the project management with the Schedule and how to distribute the tasks.
+- Learn basic Rhapsody from IBM in order to work with UML models.
+- Verify that our system follows all standards and is “GVA compliant”.
+- Design a configurable Excel that allows to configure each param of the system just using Excel.
+- Design different subsystems inside HUMS as Alarms or Thresholds.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -90,6 +92,8 @@ I developed the following tasks:
 
 
 ### DRAD
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### IOT
 
@@ -102,3 +106,13 @@ COMENTAR MIS HABILIDADES BLANDAS / TRANSVERSALES
 ## PROJECTS
 ### LANGTICKERS
 https://github.com/alvaromrls/langProject
+
+![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
