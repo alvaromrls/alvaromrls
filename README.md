@@ -11,7 +11,7 @@ The 3 most important places where I studied-am studing-will study are the follow
 ## 1. UNIVERSITY OF SEVILLE:  DEGREE IN ELECTRONIC AND ROBOTIC ENGINEERING
 -  From 2014 to 2019 (finished).
 - Specialisation in electronic instrumentation with an average of 8.74 out of 10.
-- I learned Ingineering's basics, Maths, Physics... ("the basic kit").
+- I learned Engineering's basics, Maths, Physics... 
 - In the degree there were strong subjects in robotics, electronics and control (among others).
 - Industrial software were used as Matlab or Xilinx environements.
 ## 2. ESCUELA ORGANIZACION INDUSTRIAL: CLOUD COMPUTING DEV. COURSE
