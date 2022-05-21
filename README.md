@@ -51,10 +51,13 @@ I have done several courses from LinkedIn Learning, Coursera and Kaggle as well 
 # WHICH IS MY WORK EXPERIENCE?
 ## UNIVERSITY OF SEVILLE
 
+During two years (Jul 2019 - Jun 2021) I have been working as a Software / Electronics Engineer at University of Seville's electronic department (GIE).
+
 ### HUMS
-A HUMS is a Health and Usage Monitoring Sistem, a software which takes care of a Tank (like Iron Man's Jarvis). It follows GVA (UK) or NGVA (NATO) standards in order to create plug and play systems. During my stay in GIE, this project took most of my time and my headaches. We developed a HUMS system for GDELS-Santa Barbara which was included in a tank for the Czech Republic's army;
+A HUMS is a Health and Usage Monitoring Sistem, a software which takes care of a Tank (like Iron Man's Jarvis). It follows GVA (UK) or NGVA (NATO) standards in order to create plug and play systems. During my stay in GIE, this project took most of my time and my headaches. We developed a HUMS system for GDELS-Santa Barbara which was included in a tank for the Czech Republic's army.
 
 [HUMS-Normative](https://www.omgwiki.org/ddsf/doku.php?id=ddsf:public:guidebook:03_user:07_gva)
+
 [HUMS-Gdels](https://www.infodefensa.com/texto-diario/mostrar/3166079/gdels-sbs-presenta-herramienta-predictiva-mantenimiento-vehiculos-basado-condicion)
 
 I developed the following tasks:
@@ -66,6 +69,7 @@ I developed the following tasks:
 - Design other subsystems for testing and demos, like a DDS-CAN BUS tunnel.
 - Teaching my coworkers about the technologies and protocols.
 - Centos scripts to automate main software and tests compilation.
+- Helping in the project management with the Schedule and how to distribute the tasks.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -75,6 +79,7 @@ I developed the following tasks:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+
 
 ### DRAD
 
