@@ -29,7 +29,7 @@ The 3 most important places where I studied-am studing-will study are the follow
 This is my next goal! (From Oct 2022 to June 2022)
 
 ## OTHERS:
-I have done several courses from LinkedIn Learning, Coursera and Kaggle as well as read books for learning about new technologies:
+I have done several courses from LinkedIn Learning, Coursera and Kaggle as well I have read books for learning about new technologies:
 - MERN
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
