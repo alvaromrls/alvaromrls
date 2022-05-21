@@ -87,15 +87,37 @@ I developed the following tasks:
 ![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
-
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 ### DRAD
+The objective of the project was to develop a SoC system for data analis ys at CERN. Given some electronic devices (similar to a camera matrix) that detects particles , the system (DRAD) should be able to use the detectors, analice all the data and send it outside. The system was mainly formed by a Linux Computer and FPGA integrated.
+
+My roles here:
+- Update and verify a previous thesis.
+- Create some integration test for the drivers using VHDL.
+- Fix and update the AXI4 architecture.
+- Migrate from a RPC architecture to a web server architecture and C++ codes to
+Python in order to have a more modern architecture (easier to use and scale).
+- Desing a power-board, print it, weld all the components and test it.
+- Configure a Raspberry Pi for using all the systems remotly (including the powerboard).
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 ### IOT
+Using Texas Instruments microcontrolers some IoT applications were developed. The main objective was to create systems that measure the environment and send the information to a server. These systems can be easily adapted to different needs.
+
+Scope of work/Tasks:
+- Develop drivers in C for microcontrollers as UART, I2C, Temperature Sensor, Memory.
+- Designing unit-test system for those drivers.
+- Create a repository-based architecture in IAR for reusing all drivers in diferent
+projects and not have to copy-paste the code one by one.
+- Support in some FreeRTos architectures.
+
 
 # HOW DO I WORK ?
 COMENTAR MIS HABILIDADES BLANDAS / TRANSVERSALES
