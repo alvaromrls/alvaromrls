@@ -62,9 +62,7 @@ During two years (Jul 2019 - Jun 2021) I have been working as a Software / Elect
 researchers from the Electronic Technology Area, 16 of whom hold PhDs, around various lines of research.
 
 ### HUMS
-A [HUMS](https://www.omgwiki.org/ddsf/doku.php?id=ddsf:public:guidebook:03_user:07_gva) is a Health and Usage Monitoring Sistem, a software which takes care of a Tank (like Iron Man's Jarvis). It follows GVA (UK) or NGVA (NATO) standards in order to create plug and play systems. During my stay in GIE, this project took most of my time and my headaches. We developed a HUMS system for GDELS-Santa Barbara which was included in a tank for the Czech Republic's army.
-
-More info about the project [here](https://www.infodefensa.com/texto-diario/mostrar/3166079/gdels-sbs-presenta-herramienta-predictiva-mantenimiento-vehiculos-basado-condicion) (spanish).
+A [HUMS](https://www.omgwiki.org/ddsf/doku.php?id=ddsf:public:guidebook:03_user:07_gva) is a Health and Usage Monitoring Sistem, a software which takes care of a Tank (like Iron Man's Jarvis). It follows GVA (UK) or NGVA (NATO) standards in order to create plug and play systems. During my stay in GIE, this project took most of my time and my headaches. We developed a HUMS system for GDELS-Santa Barbara which was included in a tank for the Czech Republic's army. More info about the project [here](https://www.infodefensa.com/texto-diario/mostrar/3166079/gdels-sbs-presenta-herramienta-predictiva-mantenimiento-vehiculos-basado-condicion) (spanish).
 
 I developed the following tasks:
 - Requirements based software design.
