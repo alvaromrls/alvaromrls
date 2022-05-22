@@ -124,7 +124,7 @@ I would describe myself as a 4x4 that sweeps through projects, well maybe that's
 # WHAT ELSE HAVE I DONE ?
 A bit more about my carreer in case you are still reading:
 ## VOLUNTARY WORK
-Frome June to December 2022 I lived in Bucharest (Romania) where I worked as a volunteer. There I help people (in particular kids) who were at risk of exclusion or with disabilities. I opened my mind a lot with the intercultural environment I was in and the travels around other close countries I could realise (Bulgary, Serbia, Turkey...). 
+Frome June to December 2022 I lived in Bucharest (Romania) where I worked as a volunteer. There I was helping people (in particular kids) who were at risk of exclusion or with disabilities. I opened my mind a lot with the intercultural environment I was in and the travels around other close countries I could realise (Bulgary, Serbia, Turkey...). 
 ## PROJECTS
 I'm not very used to develop large projects by myself and even less to publish them but ...
 ### LANGTICKERS
