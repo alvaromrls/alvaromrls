@@ -21,7 +21,11 @@ The 3 most important places where I studied-am studing-will study are the follow
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-- During the formation we will be able to get AZ-204,PL-100 certifications
+
+- During the formation we will be able to get the following certifications:
+  - AZ-900: Azure fundamentals
+  - AZ-204: Developing Solutions for Microsoft Azure
+  - PL-100: Microsoft Power Platform App Maker
 
 ## 3. UNIR: ARTIFICIAL INTELLIGENCE 
 This is my next goal! (From Oct 2022 to June 2022)
