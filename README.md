@@ -24,10 +24,10 @@ The 3 most important places where I studied-am studing-will study are the follow
 
 - During the formation I acquired the following certifications:
   - AZ-900: Azure fundamentals
+  - PL-100: Microsoft Power Platform App Maker
 
 - During the formation we will be able to get the following certifications:
   - AZ-204: Developing Solutions for Microsoft Azure
-  - PL-100: Microsoft Power Platform App Maker
 
 ## 3. UNIR: ARTIFICIAL INTELLIGENCE 
 This is my next goal! (From Oct 2022 to June 2022)
