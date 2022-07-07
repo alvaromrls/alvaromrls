@@ -12,6 +12,7 @@ The 3 most important places where I studied-am studing-will study are the follow
 - I learned Engineering's basics, Maths, Physics... 
 - In the degree there were strong subjects about robotics, electronics and control (among others).
 - Industrial software was used as Matlab or Xilinx environements.
+- Tesis: V-REP and Matlab for simulations
 ## 2. ESCUELA ORGANIZACION INDUSTRIAL: CLOUD COMPUTING DEV. COURSE
 - From April 2022 to August 2022 (currently).
 - I got instructed in sotfkills, transversal abilities & empleability.
